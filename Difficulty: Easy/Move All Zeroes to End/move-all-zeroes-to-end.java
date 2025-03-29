@@ -29,9 +29,6 @@ public class Main {
 }
 // } Driver Code Ends
 
-
-// User function Template for Java
-
 class Solution {
     public static void swap(int[] arr,int i,int j) {
         // code here
@@ -49,3 +46,5 @@ class Solution {
         }
     }
 }
+// User function Template for Java
+
